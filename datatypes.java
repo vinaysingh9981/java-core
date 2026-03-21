@@ -16,5 +16,8 @@ public class datatypes {
         System.out.println("this is a boolean  data type: "+f);
         System.out.println("this is a double  data type: "+g);
 
+
+        
+
     }
 }
